@@ -36,7 +36,7 @@ use PHPMailer\PHPMailer\Exception;
 
             $mail->Username = 'jannat.mamurjor@gmail.com';  // sender gmail host              
 
-            $mail->Password = 'ihztsijwheggbfmy'; // sender gmail host password   
+            $mail->Password = 'apner app pssword'; // sender gmail host password   
             
 
 
